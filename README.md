@@ -33,7 +33,7 @@ A simple yet powerful voice assistant built with Python, leveraging OpenAI's Whi
 1.  **Clone the repository (or download the files):**
     ```bash
     # If using Git
-    git clone <your-repository-url>
+    git clone https://github.com/SazzHub221/Realtime-Voice-LLM-GUI.git
     cd <repository-directory>
     ```
 
