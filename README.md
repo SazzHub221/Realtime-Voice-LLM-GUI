@@ -80,4 +80,4 @@ A simple yet powerful voice assistant built with Python, leveraging OpenAI's Whi
 
 ---
 
-Enjoy your TensorGo Voice Assistant! 
+Enjoy your Voice Assistant! 
